@@ -1,5 +1,5 @@
 # Opérations Matricielles Distribuées avec MapReduce
-Par [Votre Nom]
+Par BENDIDI Wissal
 Février 2025
 
 ## Table des matières
