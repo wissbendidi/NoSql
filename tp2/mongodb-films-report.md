@@ -1,6 +1,6 @@
 # Utilisation de MongoDB pour la gestion d'une base de données de films
 
-Par [Votre Nom]
+Par BENDIDI WISSAL
 Février 2025
 
 ## Table des matières
