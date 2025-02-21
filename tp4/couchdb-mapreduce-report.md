@@ -114,6 +114,15 @@ function(keys, values, rereduce) {
 
 ### 4.2 Analyse des genres
 
+
+**MapReduce** est un modèle de programmation permettant le traitement efficace des données volumineuses. Il se compose de deux phases :
+
+- **Map** : Transformation des données en paires **(clef, valeur)**.
+- **Reduce** : Agrégation et calculs sur ces valeurs.
+
+Ce modèle est particulièrement utile dans les bases NoSQL comme CouchDB pour indexer et traiter les requêtes complexes.
+
+
 #### Fonction Map
 ```javascript
 function(doc) {
