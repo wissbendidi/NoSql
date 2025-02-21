@@ -1,5 +1,5 @@
 # CouchDB et MapReduce : Analyse de données distribuées
-Par [Votre Nom]
+Par BENDIDI Wissal
 Février 2025
 
 ## Table des matières
